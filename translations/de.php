@@ -47,7 +47,7 @@ $_MODULE['<{mediafinanz}prestashop>mediafinanz_76525f0f34b48475e5ca33f71d296f3b'
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_272a4fed43e5d1085b2112f6b657d69a'] = 'Mandanten-Lizenz';
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_650be61892bf690026089544abbd9d26'] = 'Modus';
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_0c8782e7e8b9ea0c32112d5a8f328e6f'] = 'Wählen Sie den Testmodus für Testzwecke';
-$_MODULE['<{mediafinanz}prestashop>mediafinanz_955ad3298db330b5ee880c2c9e6f23a0'] = 'Betriebsmodus';
+$_MODULE['<{mediafinanz}prestashop>mediafinanz_955ad3298db330b5ee880c2c9e6f23a0'] = 'Livemodus';
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_2652eec977dcb2a5aea85f5bec235b05'] = 'Testmodus';
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_b8db293028ffb488b86381f63b93d3c9'] = 'Logging aktivieren ';
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_177e5cd730258e7997275a63caf792e7'] = 'Der Order für Logdateien heißt:';
