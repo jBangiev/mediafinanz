@@ -13,8 +13,8 @@ $_MODULE['<{mediafinanz}prestashop>mediafinanz_c2572d1fee836c06c88e0bdc9fa7ffa1'
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_a73c857df28b9bfe8fbee4d9c2963185'] = 'Die Bestellung ist ungültig. ';
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_0f8c30379742ff61b2f231c411290926'] = 'E-Mail wurde nicht versandt. ';
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_6506dca0896199e9b53a773816ad912f'] = 'Der jetzige Bestellstatus ist identisch. ';
-$_MODULE['<{mediafinanz}prestashop>mediafinanz_92a9774c2a5df29ac4bffb46219ea9cd'] = 'Erste Zahlungserinnerung ';
-$_MODULE['<{mediafinanz}prestashop>mediafinanz_1adb5e6616f26277774e5b9d94f4de29'] = 'Letzte Zahlungserinnerung vor Inkasso';
+$_MODULE['<{mediafinanz}prestashop>mediafinanz_92a9774c2a5df29ac4bffb46219ea9cd'] = 'Zahlungserinnerung ';
+$_MODULE['<{mediafinanz}prestashop>mediafinanz_1adb5e6616f26277774e5b9d94f4de29'] = 'Mahnung';
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_0f98b7f230f3c91292f0de4c99e263f2'] = 'Registrierung ';
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_c69a98e13eae87bc0ca8735329bf3a5d'] = 'Anrede';
 $_MODULE['<{mediafinanz}prestashop>mediafinanz_20db0bfeecd8fe60533206a2b5e9891a'] = 'Vorname';
